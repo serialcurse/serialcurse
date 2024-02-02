@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/serialcurse" target="blank"><img src="https://img.shields.io/twitter/follow/serialcurse?logo=twitter&style=for-the-badge" alt="serialcurse" /></a> </p>
 
-- 💻 I’m currently learning **HTML,CSS,JavaScript**
+- 💻 I’m currently learning **Python**
 
 - 📧 How to reach me **serialcurse@gmail.com**
 
