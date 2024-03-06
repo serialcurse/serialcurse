@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm serialcurse</h1>
+<h1 align="center">Hi 👋, I'm Jiyan</h1>
 <h3 align="center">A ambitios computer programming student from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJzczJzNnUzdXNiZXFmcXBiYnJjb3ZhZGVtNGJ6ZHFyd21iMm0wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"
 <img
