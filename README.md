@@ -9,8 +9,6 @@
 
 - 💻 I’m currently learning **Python**
 
-- 📧 How to reach me **serialcurse@gmail.com**
-
 - ⚡ Fun fact **I'm making music**
 
 <h3 align="left">Connect with me:</h3>
